@@ -1,5 +1,6 @@
 body{
-    background-color: #d5e1ef;
+    background-color: hsl(212, 45%, 89%);
+    font-family:'Omega',sans-serif;
 }
 .wrapper{
     background-color: white;
@@ -18,11 +19,13 @@ body{
 }
 .message{
     text-align: center;
-    font-family: sans-serif;
-    
+}
+h3{
+    color: hsl(218, 44%, 22%);
 }
 p{
-    color: rgb(142, 142, 142);
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
 }
 
 .attribution { 
@@ -30,5 +33,5 @@ p{
 }
 .attribution a { 
     color: hsl(228, 45%, 44%);
-}
+ }
 
